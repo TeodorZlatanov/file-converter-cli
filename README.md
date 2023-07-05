@@ -1,5 +1,5 @@
 ## Converter
-- Convertes every xls/xlsx to csv, docx to txt, pdf to txt in the specified directory 
+- Converts every xls/xlsx to csv, docx to txt, pdf to txt in the specified directory 
 ### Dependencies
 
 ```ps
